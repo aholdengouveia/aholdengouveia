@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### Want to be social?
-***Find me on Social media aholdengouveia at:***
+***Find me on Social media:***
 
 <a href="https://linkedin.com/in/aholdengouveia"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=https://linkedin.com/in/aholdengouveia" alt="LinkedIn Badge"></a> 
 <a href="https://twitter.com/@aholdengouveia_
