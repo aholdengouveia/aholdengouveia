@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 ***Find me on Social media:***
 
 <a href="https://linkedin.com/in/aholdengouveia"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white=https://linkedin.com/in/aholdengouveia" alt="LinkedIn Badge"></a> 
-<a href="https://twitter.com/@aholdengouveia_
+<!--<a href="https://twitter.com/@aholdengouveia_
 /"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white=https://twitter.com/aholdengouveia" alt="Twitter Badge"></a>
+-->
 <a href="tube.com/channel/UCebdI1gT84U7PBtJFUTrIQA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white=tube.com/channel/UCebdI1gT84U7PBtJFUTrIQA" alt="Youtube Badge"></a>
 <a href="https://fosstodon.org/@aholdengouveia"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white=https://fosstodon.org/@aholdengouveia" alt="Mastodon follow on Fosstodon"></a>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aholdengouveia)](https://github.com/gazf/github-readme-twitter)
+
 
    
 ### 🎶 These are a few of my favorite things
