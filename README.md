@@ -96,4 +96,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aholdengouveia&layout=compact)](https://github.com/aholdengouveia)
 
-[![Adrianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aholdengouveia)](https://github.com/aholdengouveia/github-readme-stats)
+[![Adrianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aholdengouveia\&rank_icon=github)](https://github.com/aholdengouveia/github-readme-stats) 
+
