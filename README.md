@@ -92,7 +92,7 @@ Here are some ideas to get you started:
           
 
 ### 🧮 Statistics
-***Some GitHub Statistics.  Because every loves statistics!***
+***Some GitHub Statistics.  Because everyone loves statistics!***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aholdengouveia&layout=compact)](https://github.com/aholdengouveia)
 
