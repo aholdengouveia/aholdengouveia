@@ -96,5 +96,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aholdengouveia&layout=compact)](https://github.com/aholdengouveia)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aholdengouveia.aholdengouveia)](https://www.aholdengouveia.name/)
-[![Adrianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aholdengouveia)](https://github.com/aholdengouveia/github-readme-stats)
+<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aholdengouveia.aholdengouveia)](https://www.aholdengouveia.name/)-->
+[![Adrianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aholdengouveia\&hide=issues\&show_icons=true)](https://github.com/aholdengouveia/github-readme-stats)
